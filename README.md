@@ -1,32 +1,32 @@
-# Rental Contract Template — Colombia
+# Plantilla de Contrato de Arrendamiento — Colombia
 
-This repo contains a reusable Spanish-language urban residential lease contract template (Colombia), based on the model used for the Barranquilla lease dated June 20, 2026.
+Este repositorio contiene una plantilla reutilizable de contrato de arrendamiento de vivienda urbana en español (Colombia), basada en el modelo usado para el contrato de Barranquilla del 20 de junio de 2026.
 
-## Files
+## Archivos
 
-- `Contrato_Arrendamiento_Modelo.docx` — Word template with fill-in placeholders
-- `Contrato_Arrendamiento_Modelo.txt` — Plain-text version for quick edits
-- `README.md` — This file
+- `Contrato_Arrendamiento_Modelo.docx` — Plantilla de Word con campos para completar
+- `Contrato_Arrendamiento_Modelo.txt` — Versión en texto plano para ediciones rápidas
+- `README.md` — Este archivo
 
-## How to use
+## Cómo usar
 
-1. Open `Contrato_Arrendamiento_Modelo.docx`
-2. Search/replace all `[PLACEHOLDERS]` with the correct data
-3. Review optional clauses (deposit, pets, parking, furnishings)
-4. Have all parties sign and fingerprint
-5. Keep one original per party + scanned copy
+1. Abrir `Contrato_Arrendamiento_Modelo.docx`
+2. Buscar y reemplazar todos los `[CAMPOS]` con los datos correctos
+3. Revisar las cláusulas opcionales (depósito, mascotas, parqueadero, muebles)
+4. Hacer firmar y poner huellas a todas las partes
+5. Conservar un original por parte + una copia escaneada
 
-## Important placeholders to fill
+## Campos importantes para completar
 
 - `[FECHA DE INICIO]` / `[FECHA DE TERMINACIÓN]`
 - `[NOMBRE COMPLETO ARRENDADOR]` / `[CC / NIT]` / `[EMAIL]` / `[TELÉFONO]`
-- `[NOMBRE COMPLETO ARRENDATARIO(S)]` / `[ID]` / `[EMAIL]` / `[TELÉFONO]`
+- `[NOMBRE COMPLETO ARRENDATARIO(S)]` / `[DOCUMENTO]` / `[EMAIL]` / `[TELÉFONO]`
 - `[DIRECCIÓN COMPLETA DEL INMUEBLE]`
-- `[CANON MENSUAL]` (letters and numbers)
+- `[CANON MENSUAL]` (en letras y números)
 - `[BANCO]` / `[NÚMERO DE CUENTA]` / `[TITULAR]`
 - `[SERVICIOS PÚBLICOS: números de contrato]`
-- `[DEPÓSITO DE GARANTÍA]` (optional)
+- `[DEPÓSITO DE GARANTÍA]` (opcional)
 
-## Legal note
+## Nota legal
 
-This is a model template. It is recommended to have the final contract reviewed by a Colombian lawyer before signing, especially for properties in regulated rental markets or when including special clauses (pets, commercial use, furnished, etc.).
+Esta es una plantilla modelo. Se recomienda hacer revisar el contrato final por un abogado colombiano antes de firmar, especialmente si la propiedad está en un mercado de arrendamiento regulado o si se incluyen cláusulas especiales (mascotas, uso comercial, amoblado, etc.).
